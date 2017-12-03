@@ -1,0 +1,6 @@
+SELECT 
+	{[Measures].[Order Quantity], [Measures].[Sales Amount]} ON 0,
+	NON EMPTY {Descendants([Date].[Calendar].[All Periods],1,SELF), Descendants([Date].[Calendar].[All Periods],3,SELF)}  ON 1,
+	NON EMPTY {DESCENDANTS([Product].[Product Categories].[All Products],1,SELF), DESCENDANTS([Product].[Product Categories].[All Products],2,SELF)} ON 2,
+	NON EMPTY {DESCENDANTS([Sales Territory].[Sales Territory].[All Sales Territories],1,SELF), DESCENDANTS([Sales Territory].[Sales Territory].[All Sales Territories],2,SELF)} ON 3
+FROM [Adventure Works]

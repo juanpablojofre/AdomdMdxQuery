@@ -1,0 +1,20 @@
+select 
+	NON EMPTY 
+		{
+			[Measures].[Order Quantity],
+			[Measures].[Sales Amount]
+		} *
+		{
+			DESCENDANTS([Date].[Calendar].[Calendar Year].&[2013], 2, self), 
+			[Date].[Calendar].&[2013]
+		} ON 0,
+	NON EMPTY CROSSJOIN( 
+		{
+			DESCENDANTS ([Promotion].[Promotions].[Category],,SELF)
+		}, 
+		{
+			DESCENDANTS ([Product].[Product Categories].[Subcategory].[Gloves], ,SELF_AND_AFTER),
+			DESCENDANTS ([Product].[Product Categories].[Subcategory].[Jerseys], ,SELF_AND_AFTER)
+		}) on 1
+from [Adventure Works]
+where ([Sales Territory].[Sales Territory].[Group].&[North America])

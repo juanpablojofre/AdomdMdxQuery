@@ -1,0 +1,26 @@
+		Order Quantity	Order Quantity	Order Quantity	Order Quantity	Order Quantity	Sales Amount	Sales Amount	Sales Amount	Sales Amount	Sales Amount
+		Q1 CY 2013	Q2 CY 2013	Q3 CY 2013	Q4 CY 2013	CY 2013	Q1 CY 2013	Q2 CY 2013	Q3 CY 2013	Q4 CY 2013	CY 2013
+No Discount	Gloves	833	647	464	538	2,482	13,376.44	11,182.13	8,571.50	10,089.88	43,219.95
+No Discount	Half-Finger Gloves, L	167	103	79	128	477	2,757.57	1,875.93	1,640.83	2,478.39	8,752.73
+No Discount	Half-Finger Gloves, M	376	308	203	254	1,141	5,936.38	5,231.06	3,649.01	4,515.96	19,332.41
+No Discount	Half-Finger Gloves, S	290	236	182	156	864	4,682.49	4,075.14	3,281.66	3,095.54	15,134.82
+No Discount	Jerseys	2,093	1,950	1,625	1,549	7,217	70,495.66	68,552.44	59,000.26	58,338.80	256,387.16
+No Discount	Long-Sleeve Logo Jersey, L	396	434	306	271	1,407	12,617.48	14,237.15	10,557.89	9,548.09	46,960.61
+No Discount	Long-Sleeve Logo Jersey, M	313	247	221	234	1,015	10,107.98	8,308.34	7,668.47	8,638.27	34,723.05
+No Discount	Long-Sleeve Logo Jersey, S	28	56	74	78	236	1,399.72	2,799.44	3,699.26	3,899.22	11,797.64
+No Discount	Long-Sleeve Logo Jersey, XL	265	155	164	119	703	8,588.28	5,608.88	5,738.85	4,669.07	24,605.08
+No Discount	Short-Sleeve Classic Jersey, L	374	359	291	264	1,288	12,806.43	12,234.13	10,398.47	9,588.62	45,027.66
+No Discount	Short-Sleeve Classic Jersey, M	28	40	40	40	148	1,511.72	2,159.60	2,159.60	2,159.60	7,990.52
+No Discount	Short-Sleeve Classic Jersey, S	298	275	202	205	980	10,258.10	10,052.94	7,407.43	7,677.38	35,395.84
+No Discount	Short-Sleeve Classic Jersey, XL	391	384	327	338	1,440	13,205.95	13,151.96	11,370.29	12,158.55	49,886.76
+Reseller	Gloves	252	55	40	41	388	3,557.36	896.72	747.06	760.98	5,962.13
+Reseller	Half-Finger Gloves, L	21	14	18	18	71	398.02	342.86	440.82	440.82	1,622.52
+Reseller	Half-Finger Gloves, M	168	41	11	23	243	2,282.37	553.86	153.12	320.16	3,309.52
+Reseller	Half-Finger Gloves, S	63	(null)	11	(null)	74	876.97	(null)	153.12	(null)	1,030.09
+Reseller	Jerseys	1,135	359	255	302	2,051	32,778.97	10,493.75	7,851.92	9,034.92	60,159.56
+Reseller	Long-Sleeve Logo Jersey, L	268	81	79	88	516	7,169.90	2,264.85	2,208.02	2,461.45	14,104.21
+Reseller	Long-Sleeve Logo Jersey, M	119	23	(null)	(null)	142	3,305.58	653.53	(null)	(null)	3,959.11
+Reseller	Long-Sleeve Logo Jersey, XL	46	9	19	7	81	1,565.97	449.91	949.81	349.93	3,315.62
+Reseller	Short-Sleeve Classic Jersey, L	200	61	36	91	388	5,892.25	1,755.49	1,104.77	2,792.60	11,545.10
+Reseller	Short-Sleeve Classic Jersey, S	103	11	(null)	(null)	114	3,160.86	337.57	(null)	(null)	3,498.42
+Reseller	Short-Sleeve Classic Jersey, XL	399	174	121	116	810	11,684.42	5,032.41	3,589.33	3,430.93	23,737.09
